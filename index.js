@@ -29,10 +29,20 @@ bot.loadPlugin(cmd)
 
 bot.on('login',function(){
 	console.log("Logged In")
-	bot.chat("hello");
+	bot.chat("Hello, and thank you for installing ColinMcCloud's 24/7 bot. Enjoy your server thats open 24 hours a day 7 days a week.");
 });
 
-bot.on('time', function(time) {
+bot.on('login',function(){
+	console.log("Logged In")
+	bot.chat("Also, please make sure to switch the bot to spectator mode just to make sure it doesn't die and if you have a vanish plugin installed it is recommended you switch the bot to vanish as well.");
+});
+
+bot.on('login',function(){
+	console.log("Logged In")
+	bot.chat("As a bonus if you would like to keep your server set to day at all times just give the bot operator or if you have a permissions plugin like luckyperms then please give it the required access to the command of /time set day.");
+});
+
+bot'time', .on(function(time) {
 	if(nightskip == "true"){
 	if(bot.time.timeOfDay >= 13000){
 	bot.chat('/time set day')
