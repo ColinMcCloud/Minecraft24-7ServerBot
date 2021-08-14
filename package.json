@@ -1,12 +1,12 @@
 {
-  "name": "afkbot",
+  "name": "24/7 Bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "MannuG",
+  "author": "ColinMcCloud",
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.3",
