@@ -20,7 +20,7 @@ Installation steps:
 Watch this youtube video on how to setup the bot (Recommended) *link goes here* 
 
 <br>
-Note: If you run into any errors follow the troubleshooting below.
+#Note: If you run into any errors follow the troubleshooting below.
 <br>
 Error troubleshooting:
 Getting a type error: make sure to run start.sh and index.js
