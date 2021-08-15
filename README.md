@@ -10,13 +10,13 @@ Installation steps:
 <br>
 2: Extract file
 <br>
-3: edit config.json with your desired settings
+3: Edit config.json with your desired settings
 <br>
-4: run start.sh (Recommended) or `node index.js`
+4: Run start.sh or `node index.js`
 <br>
  or 
 <br>
-Watch this youtube video on how to setup the bot *link goes here* 
+Watch this youtube video on how to setup the bot (Recommended) *link goes here* 
 <br>
 Note: If you run into any errors follow the troubleshooting below.
 <br>
