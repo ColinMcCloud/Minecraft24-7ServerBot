@@ -28,6 +28,6 @@ Getting a type error: make sure to run start.sh and index.js
 Getting a permission denied: run start.sh and index.js
 <br>
 Not understanding what error your getting just watch the damn youtube video
-<br>
 
+<br>
 YOUR SERVER MUST BE SET TO ALLOW CRACK ACCOUNT BECAUSE THATS HOW THE BOT IS ABLE TO GET THE NAME OF "24/7 Bot"
