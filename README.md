@@ -19,6 +19,7 @@ Installation steps:
  
 <br>
 Watch this youtube video on how to setup the bot (Recommended) *link goes here* 
+
 <br>
 
 Note: If you run into any errors follow the troubleshooting below.
