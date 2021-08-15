@@ -1,6 +1,6 @@
 {
-	"ip":"TheBoysSMPPP.aternos.me",
+	"ip":"exampleserverip.net",
 	"port": "25565",
-	"name": "24/7",
+	"name": "24/7 Bot",
 	"auto-night-skip":"false"
 }
