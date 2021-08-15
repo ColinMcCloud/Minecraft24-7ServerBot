@@ -39,7 +39,7 @@ bot.on('login',function(){
 
 bot.on('login',function(){
 	console.log("Logged In")
-	bot.chat("As a bonus if you would like to keep your server set to day at all times then just change in the config auto-skip-night to true and set the bot to operator or if you have a permissions plugin like luckyperms then please give it the required access to the command of /time set day.");
+	bot.chat("As a bonus if you would like to keep your server set to day at all times then just change in config.json auto-skip-night to true and set the bot to operator or if you have a permissions plugin like luckyperms then please give it the required access to the command of /time set day.");
 });
 
 bot'time', .on(function(time) {
