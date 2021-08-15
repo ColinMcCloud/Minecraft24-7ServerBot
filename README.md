@@ -16,7 +16,6 @@ Installation steps:
 
  or 
  
-<br>
 Watch this youtube video on how to setup the bot (Recommended) *link goes here* 
 
 
