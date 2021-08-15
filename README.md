@@ -30,5 +30,5 @@ Getting a permission denied: run start.sh and index.js
 Not understanding what error your getting just watch the damn youtube video
 
 
-YOUR SERVER MUST BE SET TO ALLOW CRACK ACCOUNT BECAUSE THATS HOW THE BOT IS ABLE TO GET THE NAME OF "24/7 Bot"
 <br>
+YOUR SERVER NEEDS TO BE CRACKED IN ORDER FOR THE BOT TO WORK BECAUSE IT REQUIRES IT SO THAT IT CAN USE THE NAME OF "24/7 Bot"
