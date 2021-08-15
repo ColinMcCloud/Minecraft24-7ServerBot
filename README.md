@@ -16,6 +16,7 @@ Installation steps:
 <br>
 
  or 
+ 
 <br>
 Watch this youtube video on how to setup the bot (Recommended) *link goes here* 
 
@@ -24,5 +25,8 @@ Note: If you run into any errors follow the troubleshooting below.
 <br>
 Error troubleshooting:
 Getting a type error: make sure to run start.sh and index.js
+<br>
 Getting a permission denied: run start.sh and index.js
+<br>
 Not understanding what error your getting just watch the damn youtube video
+<br>
