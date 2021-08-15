@@ -13,7 +13,6 @@ Installation steps:
 3: Edit `config.json` with your desired settings
 <br>
 4: Run `start.sh` or `node index.js`
-<br>
 
  or 
  
@@ -21,7 +20,6 @@ Installation steps:
 Watch this youtube video on how to setup the bot (Recommended) *link goes here* 
 
 <br>
-
 Note: If you run into any errors follow the troubleshooting below.
 <br>
 Error troubleshooting:
