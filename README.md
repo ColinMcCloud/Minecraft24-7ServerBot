@@ -14,8 +14,8 @@ Installation steps:
 <br>
 4: Run `start.sh` or `node index.js`
 <br>
+
  or 
- 
 <br>
 Watch this youtube video on how to setup the bot (Recommended) *link goes here* 
 
