@@ -6,7 +6,7 @@ To autoreconnect, it requires a terminal that can run sh scripts.
 
 Installation steps:
 <br>
-1: Download
+1: Download `https://github.com/ColinMcCloud/Minecraft24-7ServerBot.git`
 <br>
 2: Extract file
 <br>
